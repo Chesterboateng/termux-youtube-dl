@@ -4,7 +4,7 @@
 
 
 
-- <a href="https://f-droid.org/repo/com.termux_118.apk" title="Download Termux" style="background-color:#FFFFFF;color:#000000;text-decoration:none"> Download Termux </a>
+### - <a href="https://f-droid.org/repo/com.termux_1000.apk" title="Download Termux" style="background-color:#FFFFFF;color:#000000;text-decoration:none"> Download Termux </a>
 
 ### STEP1 : upgrade your Termux 
 
@@ -48,9 +48,7 @@ clear; curl -skL https://bit.ly/39XXwxm | bash
 
 # Join our Community:: 
 <a href="https://telegram.me/+lXZmXgTLAYEyODU1">
-    <img width="80px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" /></a>&ensp;&nbsp;&nbsp;
-    <a href="https://www.instagram.com/geeky.ak/">
-    <img width="80px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+    <img width="80px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" /></a>&ensp;&nbsp;&nbsp
 
 <br>
     
